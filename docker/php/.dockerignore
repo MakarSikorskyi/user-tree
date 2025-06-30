@@ -1,0 +1,14 @@
+vendor
+composer.lock
+.git
+.gitignore
+README.md
+.env
+.DS_Store
+*.log
+tests
+docs
+.phpunit.result.cache
+phpunit.xml
+.idea
+node_modules
